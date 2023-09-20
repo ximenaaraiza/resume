@@ -1,0 +1,165 @@
+.outline{
+    border:solid black 1px; 
+    margin: auto 250px;
+    ; padding:0px 0px 200px 0px ;
+    box-shadow: 5px 5px 5px black;
+    
+}
+
+.main{
+    width:100%
+    
+}
+
+.div1{ 
+    width:70%;
+    height:800px;
+    float:left;
+    border-right:solid black 2px
+
+}
+
+.div2{
+    margin:0px 50px 0px 70%; 
+    height:800px;
+     border-left:solid black 2px;
+}
+
+h1{
+    border:solid 2px rgb(248, 236, 233);
+    text-align:center; 
+    background-color:rgb(248, 236, 233);
+    padding:80px 40px 80px 40px ;
+    margin:80px 40px 20px 40px;
+    font-size: 40px
+}
+
+.headers{
+    margin:0px 20px 8px 40px; 
+    font-size:30px;
+    font-family: font-family, 'Cormorant Garamond', serif;;
+
+}
+
+.div1p{
+    margin:0px 20px 8px 40px;
+    padding:0px 0px 75px 0px;
+    border-bottom:solid 1.5px black;
+    font-size:20px
+}
+
+.phone{
+   display:flex;
+   align-items:center;
+   height:40px;
+   margin:0px 0px 0px 10px ;
+   padding:10px 0px 0px 0px 
+}
+
+.phone-img{
+    height:30px;
+    border-radius:20%
+}
+
+.phone-p{
+    font-size:16px;
+    margin:0px 0px 0px 5px ;
+
+}
+
+.mail{ 
+    display:flex;
+    align-items:center;
+    height:40px;
+    margin:0px 0px 0px 10px 
+}
+
+.mail-img{
+    height:30px ;
+    border-radius:20%
+}
+
+.mail-p{
+    font-size: 16px;
+    margin:0px 0px 0px 5px 
+}
+
+.lang{ 
+    display:flex;
+    align-items:center;
+    height:40px;
+    margin:0px 0px 0px 10px;
+    padding:0px 0px 33px 0px;
+    border-bottom: solid 1.5px black;
+}
+
+.lang-img{
+    height:30px ;
+    border-radius:20%
+}
+
+.lang-p{
+    font-size: 16px;
+    margin:0px 0px 0px 5px 
+}
+
+.edu{
+    margin:10px 0px 0px 10px ;
+    font-size: 30px;
+    font-family: font-family, 'Cormorant Garamond', serif;;
+
+}
+
+.title{
+    margin:70px 25px 2px 50px ;
+    font-size:20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    color:black
+}
+
+.place{
+    margin:0px 25px 2px 60px;
+    color:gray
+}
+
+.tasks{
+    color:rgb(62, 62, 62);
+    margin:3px 0px 3px 15px ;
+    font-size:20px
+}
+
+.gladys{
+    margin:1px 1px 0px 10px;
+    color:rgb(73, 73, 73)
+}
+
+.location{
+    margin:1px 1px 3px 10px;
+    color:gray;
+}
+
+.svcte{
+    margin:1px 3px 1px 10px ;
+    font-size:17px;
+    font-size:rgb(73, 73, 73)
+
+}
+
+.award{
+    margin:2px 3px 1px 10px;
+    color:rgb(112, 111, 111)
+}
+
+.exp{
+    margin:1px 3px 1px 10px ;
+    font-size:13px;
+    padding:0px 0px 4px 0px ;
+    border-bottom: solid black 1px;
+}
+
+.skills{
+    font-size:18px;
+    margin:2px 20px 2px 2px ;
+    padding:8px 0px 0px 20px;
+    color:rgb(62, 62, 62); 
+}
